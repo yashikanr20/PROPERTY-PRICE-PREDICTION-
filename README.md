@@ -20,7 +20,7 @@ The objective is to predict the median house value in **California districts** b
 - Model development — used Simple Linear Regression and Multiple Linear Regression
 - Evaluation — assessed models using RMSE, MSE, and R² score
 <br>
-##  Tech Stack
+## Techstack
 - Language - Python
   
 - Environment - Jupyter Notebook
