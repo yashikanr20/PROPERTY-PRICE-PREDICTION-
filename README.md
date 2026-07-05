@@ -15,11 +15,11 @@ The objective is to predict the median house value in **California districts** b
 <br>
 ## Tech Stack
 
-- Language - Python
+1.Language - Python
   
-- Environment - Jupyter Notebook
+2.Environment - Jupyter Notebook
   
-- Python Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+3.Python Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 <br>
 ## Methodology
 - Data Cleaning — handled missing values, corrected data types(if any)
