@@ -13,19 +13,20 @@ The objective is to predict the median house value in **California districts** b
 
 **Size:** 20640 rows x 10 columns
 <br>
+## Tech Stack
+
+- Language - Python
+  
+- Environment - Jupyter Notebook
+  
+- Python Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+<br>
 ## Methodology
 - Data Cleaning — handled missing values, corrected data types(if any)
 - Exploratory Data Analysis (EDA) with visualizations and summary statistics
 - Data Preprocessing — encoding categorical variables
 - Model development — used Simple Linear Regression and Multiple Linear Regression
 - Evaluation — assessed models using RMSE, MSE, and R² score
-<br>
-## Tech Stack
-- Language - Python
-  
-- Environment - Jupyter Notebook
-  
-- Python Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 
 
