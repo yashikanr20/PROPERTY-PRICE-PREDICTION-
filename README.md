@@ -10,6 +10,7 @@ The objective is to predict the median house value in **California districts** b
 <br>
 ## Dataset
 **Source:** [Dataset](https://docs.google.com/spreadsheets/d/1B9RTjgPSEWyQzDr-CQJmCYRriaBIaGq2WEkfp2TLTIA/edit?gid=981807341#gid=981807341)
+
 **Size:** 20640 rows x 10 columns
 <br>
 ## Methodology
@@ -19,9 +20,11 @@ The objective is to predict the median house value in **California districts** b
 - Model development — used Simple Linear Regression and Multiple Linear Regression
 - Evaluation — assessed models using RMSE, MSE, and R² score
 <br>
-## Tech Stack
+##  Tech Stack
 - Language - Python
+  
 - Environment - Jupyter Notebook
+  
 - Python Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 
